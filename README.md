@@ -5,4 +5,5 @@ Simple bash script to copy the original creation date of a photo from exif metad
 Requires the installation of the exiftool package. 
 
 TO USE:
-Place the script in the same directory of the photos and run the script. The script will go through all the photos in that folder. 
+Place the script in the same directory of the photos and run the script ./fix.sh 
+The script will go through all the photos in that folder. 
