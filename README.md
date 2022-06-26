@@ -1,4 +1,4 @@
-# photo-metadatacreationtomodify
+# Copy exif creation time to modify time
 Simple bash script to copy the original creation date of a photo from exif metadata to the modify time of the photo. Some photo gallery apps display photo order based on the modify time, so this script will ensure the photos are displayed in the order they were taken. 
 
 
